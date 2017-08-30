@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Vincent Nagoshi",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://vnagoshi.github.io/images/vnagoshiProfile.JPG",
+    "email": "vnagoshi@hawaii.edu",
+    "phone": "573-673-0149",
+    "website": "https://vnagoshi.github.io",
+    "summary": "I am studying for a B.A. in Economics in the Department of Social Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "vnagoshi",
+        "url": "http://github.com/vnagoshi"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "vnagoshi",
+        "url": "http://linkedin.com/in/vnagoshi"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Financial Markets",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Program Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Project Development",
       "keywords": [
       ]
     }
@@ -65,8 +53,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -84,9 +70,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Economics (expected Spring, 2019)",
+      "studyType": "B.A.",
+      "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
