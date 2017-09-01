@@ -12,9 +12,9 @@ summary: A sticker page application I developed for ICS 111.
 
 <img class="ui image" src="{{ site.baseurl }}/images/sticker-book.png">
 
-Sticker Book is a Java application in which you can place stickers on a page
+Sticker Book is a Java application in which you can place stickers on a page, save your designs, and interact with your stickers.
 
-
+In addition to simply placing stickers, Sticker Book comes with a number of modes and features. You can place one sticker at a time, or place as many as you want without stopping. You can move your placed stickers and even preview where you are going to place your stickers.
 
 
 
