@@ -3,7 +3,6 @@ layout: essay
 type: essay
 title: Building Blocks
 date: 2017-08-31
-date: 2017
 labels:
   - Computer Science
 ---
