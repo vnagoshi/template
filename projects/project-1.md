@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cotton-square.png
 title: Sticker Book
-permalink: projects/cotton
+permalink: projects/sticker-book
 date: 2015
 labels:
   - Java
