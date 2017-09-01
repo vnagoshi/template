@@ -10,9 +10,12 @@ labels:
 summary: A sticker page application I developed for ICS 111.
 ---
 
+<img class="ui image" src="{{ site.baseurl }}/images/sticker-book.png">
+
+Sticker Book is a Java application in which you can place stickers on a page
 
 
-Summary
+
 
 
 <hr>
