@@ -11,7 +11,7 @@ labels:
 summary: A Java application that calculates the MACD indicator for stocks and recommends buy or sell signals accordingly.
 ---
 
-
+<img class="ui image" src="{{ site.baseurl }}/images/macd-tracker.png">
 
 Summary
 
