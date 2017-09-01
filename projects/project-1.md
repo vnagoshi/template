@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/stickerBookImage.png
 title: Sticker Book
 permalink: projects/sticker-book
 date: 2015
