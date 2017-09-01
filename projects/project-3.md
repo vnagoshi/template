@@ -10,9 +10,9 @@ labels:
 summary: Data structures and sorting algorithms for use with Java development.
 ---
 
+<img class="ui image" src="{{ site.baseurl }}/images/utilities-square.png">
 
-
-Summary
+Utilities is a collection of data structures and sorting algorithms for use in developing Java projects.
 
 
 <hr>
