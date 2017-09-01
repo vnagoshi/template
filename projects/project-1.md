@@ -1,0 +1,20 @@
+---
+layout: project
+type: project
+image: images/macd-tracker-square.png
+title: MACD Tracker
+permalink: projects/macd-tracker
+date: 2017
+labels:
+  - Java
+summary: A java application that calculates the MACD indicator for stocks and makes recommended buy or sell signals based on the MACD indicator.
+---
+
+
+
+Summary
+
+
+<hr>
+Source: <a href="https://github.com/vnagoshi/MACD-Tracker"><i class="large github icon "></i>vnagoshi/MACD-Tracker</a>
+
