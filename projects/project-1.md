@@ -8,7 +8,7 @@ date: 2017
 labels:
   - Java
   - Financial Markets
-summary: A Java application that calculates the MACD indicator for stocks and recommends buy or sell signals based on the MACD indicator.
+summary: A Java application that calculates the MACD indicator for stocks and recommends buy or sell signals accordingly.
 ---
 
 
