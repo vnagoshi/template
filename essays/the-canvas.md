@@ -8,6 +8,8 @@ labels:
   - JavaScript
 ---
 
+<img class="ui image" src="{{ site.baseurl }}/images/learn-javascript.png">
+
 JavaScript is the first programming language I learned, alongside HTML and CSS.   I was in high school at the time, and to be perfectly honest, learning JavaScript in particular was a pure coincidence. I googled something along the lines of “How to code a game” and between Codecademy and the YouTube tutorials I watched, the common denominator was JavaScript. Since then, I have used JavaScript to build simple web games using the HTML5 canvas element.
 
 Overall, my opinion of JavaScript is that it’s a very useful and flexible language. Compared to other languages that I have learned, you can get away with much more in JavaScript then say Java or C++. Some might consider this a flaw of the language, but I feel it just adds to its usefulness. The syntax and concepts you use when programming in JavaScript follows closely the syntax of other languages, but the flexibility to manipulate variables, objects, and functions proves very practical and in general simplifies your code.
