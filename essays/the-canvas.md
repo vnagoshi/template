@@ -3,7 +3,6 @@ layout: essay
 type: essay
 title: The Canvas
 date: 2017-09-01
-date: 2017
 labels:
   - Computer Science
   - JavaScript
