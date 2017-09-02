@@ -8,7 +8,7 @@ labels:
   - JavaScript
 ---
 
-<img class="ui tiny left circular floated image" src="{{ site.baseurl }}/images/learn-javascript.png">
+<img class="ui tiny left floated image" src="{{ site.baseurl }}/images/learn-javascript.png">
 
 JavaScript is the first programming language I learned, alongside HTML and CSS.   I was in high school at the time, and to be perfectly honest, learning JavaScript in particular was a pure coincidence. I googled something along the lines of “How to code a game” and between Codecademy and the YouTube tutorials I watched, the common denominator was JavaScript. Since then, I have used JavaScript to build simple web games using the HTML5 canvas element.
 
