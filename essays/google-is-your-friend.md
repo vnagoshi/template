@@ -27,7 +27,7 @@ After block of code, two questions are posed, “Would the loop even run a singl
 
 
 <hr>
-Links to the example questions:\n
+Links to the example questions:
 <a href="https://stackoverflow.com/questions/7918803/flip-a-sprite-in-canvas">Flip a sprite in a canvas</a>
-\n
+, 
 <a href="https://stackoverflow.com/questions/46105630/java-string-split-on-emptry-string">Java String.split on emptry string</a>
