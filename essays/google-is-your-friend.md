@@ -8,7 +8,7 @@ labels:
 ---
 
 
-## Bad Questions
+### Bad Questions
 
 So what constitutes a bad question? Well to start we can take a look at another question posed on stackoverflow, this one titled “Java String.split on empty string?”. The title is not too bad; it fulfills the basic goal of summarizing the subject matter of the question, but not much else. The question itself gives a summary of what the author is working on that originated the question, then posts a bit of example code recorded identically below. 
 
