@@ -17,7 +17,7 @@ From the get go, anyone viewing the question is left feeling the author both ful
 
 ### Bad Questions
 
-Now what constitutes a bad question? Well to start we can take a look at another question posed on Stack Overflow, this one titled “Java String.split on empty string?”. The title is not too bad; it fulfills the basic goal of summarizing the subject matter of the question, but not much else. The question itself gives a summary of the project that the author is working on which originated the question, then posts a bit of example code recorded identically below. 
+Now what constitutes a bad question? Well to start we can take a look at another question posed on Stack Overflow, this one titled “Java String.split on emptry string?”. The title is not too bad; it fulfills the basic goal of summarizing the subject matter of the question, but not much else. The question itself gives a summary of the project that the author is working on which originated the question, then posts a bit of example code recorded identically below. 
 
 ```
   String objects; //Could also be empty
@@ -27,7 +27,7 @@ After block of code, two questions are posed, “Would the loop even run a singl
 
 
 <hr>
-Sources:
+Links to the example questions:\n
 <a href="https://stackoverflow.com/questions/7918803/flip-a-sprite-in-canvas">Flip a sprite in a canvas</a>
-, 
-<a href="https://stackoverflow.com/questions/46105630/java-string-split-on-emptry-string">Java String.split on empty string</a>
+\n
+<a href="https://stackoverflow.com/questions/46105630/java-string-split-on-emptry-string">Java String.split on emptry string</a>
