@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Google is you friend
+title: Google is your Friend
 date: 2017-09-07
 labels:
   - Computer Science
