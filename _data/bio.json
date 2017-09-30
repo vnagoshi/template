@@ -16,7 +16,7 @@
     },
     "profiles": [
       {
-        "network": "email",
+        "network": "mail",
         "username": "vnagoshi@rgbstudios.org",
         "url": "mailto:vnagoshi@rgbstudios.org"
       },
@@ -64,7 +64,8 @@
         "CSS",
         "HTML",
         "Java",
-        "Javascript"
+        "Javascript",
+        "R"
       ]
     },
     {
