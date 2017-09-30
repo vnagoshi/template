@@ -3,7 +3,7 @@
     "name": "Vincent Nagoshi",
     "label": "Student",
     "picture": "https://vnagoshi.github.io/images/vnagoshiProfile.JPG",
-    "email": ["vnagoshi@hawaii.edu", "vnagoshi@rgbstudios.org"],
+    "email": "vnagoshi@hawaii.edu",
     "phone": "573-673-0149",
     "website": "https://vnagoshi.github.io",
     "summary": "I am studying for a B.A. in Economics in the Department of Social Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
@@ -15,6 +15,11 @@
       "region": "Hawaii"
     },
     "profiles": [
+      {
+        "network": "email",
+        "username": "vnagoshi@rgbstudios.org",
+        "url": "mailto:vnagoshi@rgbstudios.org"
+      },
       {
         "network": "github",
         "username": "vnagoshi",
