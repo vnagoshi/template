@@ -9,7 +9,7 @@ labels:
   - CSS
 ---
 
-<img class="ui tiny left floated image" src="{{ site.baseurl }}/images/semantic.png">
+<img class="ui rounded tiny left floated image" src="{{ site.baseurl }}/images/semantic.png">
 
 Having a visually appealing design is a must for any webpage; most viewers will only look at a site’s homepage before deciding whether to stay or bounce. Many web developers thus spend a great deal of time styling their pages, hoping for higher retention rates for their trouble. What UI frameworks offer web developers are effectively visually appealing page building blocks. These blocks fit together well with one another and let the developer spend less time worrying about the visual appeal of their site. UI frameworks are needless to say complicated, but once you get accustomed to one and all of its quirks, they make writing and styling visually appealing websites significantly easier. The framework I got accustomed to is Semantic UI.
 
