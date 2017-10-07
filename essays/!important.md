@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: !important;
+title: "!important;"
 date: 2017-10-06
 labels:
   - Computer Science
