@@ -9,6 +9,8 @@ labels:
   - CSS
 ---
 
+<img class="ui tiny left floated image" src="{{ site.baseurl }}/images/semantic.png">
+
 Having a visually appealing design is a must for any webpage; most viewers will only look at a site’s homepage before deciding whether to stay or bounce. Many web developers thus spend a great deal of time styling their pages, hoping for higher retention rates for their trouble. What UI frameworks offer web developers are effectively visually appealing page building blocks. These blocks fit together well with one another and let the developer spend less time worrying about the visual appeal of their site. UI frameworks are needless to say complicated, but once you get accustomed to one and all of its quirks, they make writing and styling visually appealing websites significantly easier. The framework I got accustomed to is Semantic UI.
 
 My main gripe with Semantic UI, is that is takes away parts of your control in what feels like some of the most basic sections of your page’s styling, and this made the process of learning it a bit frustrating. Particulars such as font and background colors and font size that are defined in a linked stylesheet are often overridden by Semantic UI’s default behavior; the UI favoring its own default styles over your CSS rules. This is the same behavior that makes Semantic incredibly useful when structuring the page, but it becomes very annoying as a developer when the free agency you have over your page is stripped from you. You can define a Semantic UI theme to gain control over parts of Semantic’s default behavior, but it’s a stopgap solution.
