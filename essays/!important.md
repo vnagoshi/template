@@ -4,8 +4,8 @@ type: essay
 title: "!important;"
 date: 2017-10-06
 labels:
-  - Computer Science
   - Semantic UI
+  - HTML
   - CSS
 ---
 
