@@ -37,3 +37,4 @@ Due to the constant supply of surplus textbooks at the end each semester, it is 
 
 ## Beyond The Basics
 * Rating system for buyers and sellers
+* Price comparisons (post v bookstore v amazon)
