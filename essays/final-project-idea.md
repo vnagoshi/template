@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-## Overveiw
+## Overview
 
 Due to the constant supply of surplus textbooks at the end each semester, it is thus proposed a student textbook trading board. Students can post their uneeded textbooks and desired price on the exchange. Interested students can contact the seller via UH email.
 * Students must login to the trading board using their UH login.
