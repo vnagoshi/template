@@ -4,7 +4,7 @@ type: essay
 title: Ethical Engineering
 date: 2017-11-30
 labels:
-  - Computer Science
+  - Software Engineering
 ---
 
 In the field of software engineering, ethics is a bit of a tricky subject. It can be hard to gauge what exactly is and is not within reason when as a programmer your primary function is to make a computer or other machine perform a typically very specific task. Determining what externalities that task might create is often limited to the programmer’s own imagination. It is practically impossible to ward against all misuse of your code, what you can control though, is the quality and the function of your code. Ethics in software engineering revolves heavily around making sure your code is the best it can be. Your code represents you, what is done with your code after you have released it publically is beyond your scope as the programmer. As an example, we can look at a situation encountered by Bill Sourour early in his career that he writes about in “The code I’m still ashamed of”.
@@ -17,4 +17,4 @@ Ultimately it is the responsibility of the programmer to make sure his or her pr
 
 <hr>
 
-<a href="https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e">The code I'm still ashamed of</a>
+<a href="https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e" target="_blank">The code I'm still ashamed of</a>
