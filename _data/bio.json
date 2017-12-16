@@ -16,11 +16,6 @@
     },
     "profiles": [
       {
-        "network": "mail",
-        "username": "vnagoshi@rgbstudios.org",
-        "url": "mailto:vnagoshi@rgbstudios.org"
-      },
-      {
         "network": "github",
         "username": "vnagoshi",
         "url": "http://github.com/vnagoshi"
