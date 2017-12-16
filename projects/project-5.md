@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rgbstudios.png
+image: images/manoa-marketplace.png
 title: Manoa Marketplace
 permalink: projects/manoa-marketplace
 date: 2017
