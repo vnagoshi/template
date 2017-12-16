@@ -48,8 +48,13 @@
       "keywords": [
       ]
     },
-     {
+    {
       "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Storage and Retrieval",
       "keywords": [
       ]
     }
@@ -65,7 +70,10 @@
         "HTML",
         "Java",
         "Javascript",
-        "R"
+        "Meteor",
+        "R",
+        "Semantic UI",
+        "Underscore"
       ]
     },
     {
@@ -73,7 +81,8 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Git/GitHub"
+        "Git/GitHub",
+        "IntelliJ IDEA"
       ]
     }
   ],
@@ -97,7 +106,13 @@
       "date": "2015-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen who complete a rigorous high school curriculum."
-    }
+    },
+    {
+      "title": "Manoa Achievement Award",
+      "date": "2015-12-07",
+      "awarder": "University of Hawaii at Manoa Department of Economics",
+      "summary": "Award given to the top performing undergraduate Economics majors who have at least 30 semester hours."
+    },
   ],
   "references": [
     {
