@@ -6,7 +6,7 @@
     "email": "vnagoshi@hawaii.edu",
     "phone": "573-673-0149",
     "website": "https://vnagoshi.github.io",
-    "summary": "I am studying for a B.A. in Economics in the Department of Social Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am studying for a B.A. in Information and Computer Science and for a B.A. in Economics at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -59,12 +59,16 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Assembly",
         "C",
         "C++",
         "CSS",
         "HTML",
         "Java",
         "Javascript",
+        "Lisp",
+        "Prolog",
+        "SQL",
         "Meteor",
         "R",
         "Semantic UI",
@@ -85,7 +89,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Economics (expected Spring, 2019)",
+      "area": "Information and Computer Science, B.A., Economics (expected Spring, 2019)",
       "studyType": "B.A.",
       "startDate": "2015-09-01",
       "endDate": "Present",
