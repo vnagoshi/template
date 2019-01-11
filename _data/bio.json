@@ -6,7 +6,7 @@
     "email": "vnagoshi@hawaii.edu",
     "phone": "573-673-0149",
     "website": "https://vnagoshi.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Science and for a B.A. in Economics at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am studying for a B.S. Computer Science and for a B.A. in Economics at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -66,11 +66,13 @@
         "HTML",
         "Java",
         "Javascript",
+        "JQuery",
         "Lisp",
         "Prolog",
         "SQL",
         "Meteor",
         "R",
+        "Bootstrap",
         "Semantic UI",
         "Underscore"
       ]
@@ -81,7 +83,8 @@
       "keywords": [
         "Windows",
         "Git/GitHub",
-        "IntelliJ IDEA"
+        "IntelliJ IDEA",
+        "Eclipse"
       ]
     }
   ],
@@ -90,7 +93,7 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Information and Computer Science; B.A., Economics (expected Spring, 2019)",
-      "studyType": "B.A.",
+      "studyType": "B.S.",
       "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "",
