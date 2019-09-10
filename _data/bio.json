@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Vincent Nagoshi",
-    "label": "Student",
+    "label": "Software Developer",
     "picture": "https://vnagoshi.github.io/images/vnagoshiProfile.JPG",
-    "email": "vnagoshi@hawaii.edu",
+    "email": "vincent.nagoshi@gmail.com",
     "phone": "",
     "website": "https://vnagoshi.github.io",
-    "summary": "I am studying for a B.S. in Computer Science and for a B.A. in Economics at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am a computer scientist, most accustomed to website and webapp development, but interested in contributing to projects in any language or platform",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "92115",
+      "city": "San Diego",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
@@ -74,7 +74,8 @@
         "R",
         "Bootstrap",
         "Semantic UI",
-        "Underscore"
+        "Underscore",
+        "Python"
       ]
     },
     {
@@ -92,11 +93,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Science; B.A., Economics (expected Spring, 2019)",
+      "area": "Information and Computer Science; B.A., Economics  -  Spring, 2019",
       "studyType": "B.S.",
       "startDate": "2015-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2019-05-20",
+      "gpa": "3.94",
       "courses": [
       ]
     }
@@ -105,7 +106,7 @@
   "awards": [
     {
       "title": "Manoa Merit Scholarship",
-      "date": "2015-Present",
+      "date": "2015-2019",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen who complete a rigorous high school curriculum."
     },
