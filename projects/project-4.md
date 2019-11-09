@@ -4,7 +4,7 @@ type: project
 image: images/rgbstudios.png
 title: RGBStudios.org
 permalink: projects/rgbstudios
-date: 2017
+date: 2017-Present
 labels:
   - Web Development
 summary: The live website for RGB Studios, a web development group, that hosts its web applications and other projects.

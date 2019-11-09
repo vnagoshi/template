@@ -4,7 +4,7 @@
     "label": "Software Developer",
     "picture": "https://vnagoshi.github.io/images/vnagoshiProfile.JPG",
     "email": "vincent.nagoshi@gmail.com",
-    "phone": "",
+    "phone": "(573)673-0149",
     "website": "https://vnagoshi.github.io",
     "summary": "I am a computer scientist, most accustomed to website and webapp development, but interested in contributing to projects in any language or platform",
     "location": {
@@ -60,6 +60,7 @@
       "level": "",
       "keywords": [
         "Assembly",
+        "Bootstrap",
         "C",
         "C++",
         "CSS",
@@ -68,14 +69,13 @@
         "Javascript",
         "JQuery",
         "Lisp",
-        "Prolog",
-        "SQL",
         "Meteor",
+        "Prolog",
+        "Python",
         "R",
-        "Bootstrap",
         "Semantic UI",
+        "SQL",
         "Underscore",
-        "Python"
       ]
     },
     {
@@ -83,6 +83,7 @@
       "level": "",
       "keywords": [
         "Windows",
+        "Linux",
         "Git/GitHub",
         "IntelliJ IDEA",
         "Eclipse"
