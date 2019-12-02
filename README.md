@@ -1,7 +1,7 @@
-# Technical Portfolio
+# Vincent Nagoshi's Portfolio
 
-This repository hosts a technical portfolio built using [TechFolio](http://techfolios.github.io). 
+https://vnagoshi.github.io/
 
-See the quick start guide for instructions on how to tailor the template to your own needs.
+Here you can find my portfolio including projects and essays.
 
-
+Feel free to contact me at [vincent.nagoshi@gmail.com](mailto:vincent.nagoshi@gmail.com)
